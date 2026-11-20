@@ -2,7 +2,7 @@
 title: Breaking GNOME mirror
 description: Mirror to the Codean Labs GNOME research blogpost series I wrote
 author: b0n0b0
-date: 2026-11-20 18:00:00 +0800
+date: 2026-11-20 16:00:00 +0800
 categories: [Technical]
 tags: []
 pin: false
